@@ -1,0 +1,2 @@
+sudo port install py27-pip
+pip install -r requirements.txt
